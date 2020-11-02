@@ -1,11 +1,11 @@
 # Bot's token
-token = ""
+token = "NzcyOTU2OTI5MDEwMDQwODUy.X6COPA.T8g4L82S-NToJ0s5yrutLIvXIvY"
 
 # Top.gg token
 topgg_token = ""
 
 # Discord Bots token
-dbots_token = ""
+dbots_token = "NzcyOTU2OTI5MDEwMDQwODUy.X6COPA.T8g4L82S-NToJ0s5yrutLIvXIvY"
 
 # Discord Bot List token
 dbl_token = ""
@@ -17,7 +17,7 @@ bod_token = ""
 bfd_token = ""
 
 # Discord Boats token
-dboats_token = ""
+dboats_token = "NzcyOTU2OTI5MDEwMDQwODUy.X6COPA.T8g4L82S-NToJ0s5yrutLIvXIvY"
 
 # Sentry URL
 sentry_url = ""
